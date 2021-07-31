@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="BluTest:jar">
+    <output-path>$PROJECT_DIR$/../../Me.Plugin</output-path>
+    <root id="root">
+      <element id="archive" name="BluTest.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="BluTest" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../../Eclipse/Build-Path/Spigot-1.16.5.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+main: me.phuongblu.blutest.Main
+name: blutest
+author: [PhuongBlu]
+version: 1.0
+api-version: 1.13
